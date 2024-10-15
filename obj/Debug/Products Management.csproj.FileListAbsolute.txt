@@ -1,0 +1,77 @@
+C:\Dawrat Lmabi3ate\Products Management\bin\Debug\Products Management.exe.config
+C:\Dawrat Lmabi3ate\Products Management\bin\Debug\Products Management.exe
+C:\Dawrat Lmabi3ate\Products Management\bin\Debug\Products Management.pdb
+C:\Dawrat Lmabi3ate\Products Management\obj\Debug\Products Management.csprojResolveAssemblyReference.cache
+C:\Dawrat Lmabi3ate\Products Management\obj\Debug\Products_Management.PL.FRM_CUSTOMERS_LIST.resources
+C:\Dawrat Lmabi3ate\Products Management\obj\Debug\Products_Management.PL.FRM_ADD_PRODUCT.resources
+C:\Dawrat Lmabi3ate\Products Management\obj\Debug\Products_Management.PL.FRM_CATEGORIES.resources
+C:\Dawrat Lmabi3ate\Products Management\obj\Debug\Products_Management.PL.FRM_CUSTOMERS.resources
+C:\Dawrat Lmabi3ate\Products Management\obj\Debug\Products_Management.PL.FRM_LOGIN.resources
+C:\Dawrat Lmabi3ate\Products Management\obj\Debug\Products_Management.PL.FRM_MAIN.resources
+C:\Dawrat Lmabi3ate\Products Management\obj\Debug\Products_Management.PL.FRM_ORDERS.resources
+C:\Dawrat Lmabi3ate\Products Management\obj\Debug\Products_Management.PL.FRM_PREVIEW.resources
+C:\Dawrat Lmabi3ate\Products Management\obj\Debug\Products_Management.PL.FRM_PRODUCTS.resources
+C:\Dawrat Lmabi3ate\Products Management\obj\Debug\Products_Management.PL.FRM_PRODUCTS_LIST.resources
+C:\Dawrat Lmabi3ate\Products Management\obj\Debug\Products_Management.Properties.Resources.resources
+C:\Dawrat Lmabi3ate\Products Management\obj\Debug\Products_Management.RPT.FRM_RPT_PRODUCT.resources
+C:\Dawrat Lmabi3ate\Products Management\obj\Debug\Products Management.csproj.GenerateResource.Cache
+C:\Dawrat Lmabi3ate\Products Management\obj\Debug\Products Management.exe
+C:\Dawrat Lmabi3ate\Products Management\obj\Debug\Products Management.pdb
+C:\Dawrat Lmabi3ate\Products Management\obj\Debug\Products_Management.PL.FRM_ORDERS_LIST.resources
+C:\Dawrat Lmabi3ate\Products Management\obj\Debug\Products_Management.PL.FRM_ADD_USER.resources
+C:\Dawrat Lmabi3ate\Products Management\obj\Debug\Products_Management.PL.FRM_USERS_LIST.resources
+C:\Dawrat Lmabi3ate\Products Management\obj\Debug\Products_Management.PL.FRM_BACKUP.resources
+C:\Dawrat Lmabi3ate\Products Management\obj\Debug\Products_Management.PL.FRM_RESTORE.resources
+C:\Users\mobarmijoun\Desktop\Products Management\bin\Debug\Products Management.exe.config
+C:\Users\mobarmijoun\Desktop\Products Management\obj\Debug\Products Management.exe
+C:\Users\mobarmijoun\Desktop\Products Management\obj\Debug\Products Management.pdb
+C:\Users\mobarmijoun\Desktop\Products Management\bin\Debug\Products Management.exe
+C:\Users\mobarmijoun\Desktop\Products Management\bin\Debug\Products Management.pdb
+C:\Users\mobarmijoun\Desktop\Products Management\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\mobarmijoun\Desktop\Products Management\obj\Debug\Products Management.csprojResolveAssemblyReference.cache
+C:\Users\mobarmijoun\Desktop\Products Management\obj\Debug\Products_Management.PL.FRM_ADD_USER.resources
+C:\Users\mobarmijoun\Desktop\Products Management\obj\Debug\Products_Management.PL.FRM_BACKUP.resources
+C:\Users\mobarmijoun\Desktop\Products Management\obj\Debug\Products_Management.PL.FRM_CONFIG.resources
+C:\Users\mobarmijoun\Desktop\Products Management\obj\Debug\Products_Management.PL.FRM_CUSTOMERS_LIST.resources
+C:\Users\mobarmijoun\Desktop\Products Management\obj\Debug\Products_Management.PL.FRM_ADD_PRODUCT.resources
+C:\Users\mobarmijoun\Desktop\Products Management\obj\Debug\Products_Management.PL.FRM_CATEGORIES.resources
+C:\Users\mobarmijoun\Desktop\Products Management\obj\Debug\Products_Management.PL.FRM_CUSTOMERS.resources
+C:\Users\mobarmijoun\Desktop\Products Management\obj\Debug\Products_Management.PL.FRM_LOGIN.resources
+C:\Users\mobarmijoun\Desktop\Products Management\obj\Debug\Products_Management.PL.FRM_MAIN.resources
+C:\Users\mobarmijoun\Desktop\Products Management\obj\Debug\Products_Management.PL.FRM_ORDERS.resources
+C:\Users\mobarmijoun\Desktop\Products Management\obj\Debug\Products_Management.PL.FRM_ORDERS_LIST.resources
+C:\Users\mobarmijoun\Desktop\Products Management\obj\Debug\Products_Management.PL.FRM_PREVIEW.resources
+C:\Users\mobarmijoun\Desktop\Products Management\obj\Debug\Products_Management.PL.FRM_PRODUCTS.resources
+C:\Users\mobarmijoun\Desktop\Products Management\obj\Debug\Products_Management.PL.FRM_PRODUCTS_LIST.resources
+C:\Users\mobarmijoun\Desktop\Products Management\obj\Debug\Products_Management.PL.FRM_RESTORE.resources
+C:\Users\mobarmijoun\Desktop\Products Management\obj\Debug\Products_Management.PL.FRM_USERS_LIST.resources
+C:\Users\mobarmijoun\Desktop\Products Management\obj\Debug\Products_Management.Properties.Resources.resources
+C:\Users\mobarmijoun\Desktop\Products Management\obj\Debug\Products_Management.RPT.FRM_RPT_PRODUCT.resources
+C:\Users\mobarmijoun\Desktop\Products Management\obj\Debug\Products Management.csproj.GenerateResource.Cache
+C:\Users\mobarmijoun\Desktop\Products Management\bin\Debug\Products Management.exe.manifest
+C:\Users\mobarmijoun\Desktop\Products Management\bin\Debug\Products Management.application
+C:\Users\mobarmijoun\Desktop\Products Management\obj\Debug\Products Management.exe.manifest
+C:\Users\mobarmijoun\Desktop\Products Management\obj\Debug\Products Management.application
+D:\Abu-HandhoudCoursesAllInOne\ProductManagementSystemCSharp\bin\Debug\Products Management.exe.config
+D:\Abu-HandhoudCoursesAllInOne\ProductManagementSystemCSharp\obj\Debug\Products Management.exe
+D:\Abu-HandhoudCoursesAllInOne\ProductManagementSystemCSharp\obj\Debug\Products Management.pdb
+D:\Abu-HandhoudCoursesAllInOne\ProductManagementSystemCSharp\obj\Debug\Products Management.csprojResolveAssemblyReference.cache
+D:\Abu-HandhoudCoursesAllInOne\ProductManagementSystemCSharp\obj\Debug\Products_Management.PL.FRM_ADD_USER.resources
+D:\Abu-HandhoudCoursesAllInOne\ProductManagementSystemCSharp\obj\Debug\Products_Management.PL.FRM_BACKUP.resources
+D:\Abu-HandhoudCoursesAllInOne\ProductManagementSystemCSharp\obj\Debug\Products_Management.PL.FRM_CONFIG.resources
+D:\Abu-HandhoudCoursesAllInOne\ProductManagementSystemCSharp\obj\Debug\Products_Management.PL.FRM_CUSTOMERS_LIST.resources
+D:\Abu-HandhoudCoursesAllInOne\ProductManagementSystemCSharp\obj\Debug\Products_Management.PL.FRM_ADD_PRODUCT.resources
+D:\Abu-HandhoudCoursesAllInOne\ProductManagementSystemCSharp\obj\Debug\Products_Management.PL.FRM_CATEGORIES.resources
+D:\Abu-HandhoudCoursesAllInOne\ProductManagementSystemCSharp\obj\Debug\Products_Management.PL.FRM_CUSTOMERS.resources
+D:\Abu-HandhoudCoursesAllInOne\ProductManagementSystemCSharp\obj\Debug\Products_Management.PL.FRM_LOGIN.resources
+D:\Abu-HandhoudCoursesAllInOne\ProductManagementSystemCSharp\obj\Debug\Products_Management.PL.FRM_MAIN.resources
+D:\Abu-HandhoudCoursesAllInOne\ProductManagementSystemCSharp\obj\Debug\Products_Management.PL.FRM_ORDERS.resources
+D:\Abu-HandhoudCoursesAllInOne\ProductManagementSystemCSharp\obj\Debug\Products_Management.PL.FRM_ORDERS_LIST.resources
+D:\Abu-HandhoudCoursesAllInOne\ProductManagementSystemCSharp\obj\Debug\Products_Management.PL.FRM_PREVIEW.resources
+D:\Abu-HandhoudCoursesAllInOne\ProductManagementSystemCSharp\obj\Debug\Products_Management.PL.FRM_PRODUCTS.resources
+D:\Abu-HandhoudCoursesAllInOne\ProductManagementSystemCSharp\obj\Debug\Products_Management.PL.FRM_PRODUCTS_LIST.resources
+D:\Abu-HandhoudCoursesAllInOne\ProductManagementSystemCSharp\obj\Debug\Products_Management.PL.FRM_RESTORE.resources
+D:\Abu-HandhoudCoursesAllInOne\ProductManagementSystemCSharp\obj\Debug\Products_Management.PL.FRM_USERS_LIST.resources
+D:\Abu-HandhoudCoursesAllInOne\ProductManagementSystemCSharp\obj\Debug\Products_Management.Properties.Resources.resources
+D:\Abu-HandhoudCoursesAllInOne\ProductManagementSystemCSharp\obj\Debug\Products_Management.RPT.FRM_RPT_PRODUCT.resources
+D:\Abu-HandhoudCoursesAllInOne\ProductManagementSystemCSharp\obj\Debug\Products Management.csproj.GenerateResource.Cache
